@@ -1,6 +1,8 @@
 # Stop-and-Wait-Data-Transmission-Protocol-
 </br>
 
+In this project I implemented stop-and-wait protocol with acknowledge and negative acknowledgements as well as retransmissions on the negative acknowledgements. This was implemented with construction and destruction of packets and a thread safe message queue.
+
 
 ## Testing
 </br>
